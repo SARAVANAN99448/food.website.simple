@@ -1,0 +1,46 @@
+.section-one{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+}
+.section-one__options{
+    color: gray;
+}
+.container{
+    text-align: center;
+    
+
+}
+.section-two,.section-three,.section-four,.section-five{
+    display: inline-block;
+    border: black solid 2px;
+    padding: 4px;
+    width: 220px;
+    height: 310px;
+}
+.section-six{
+    color: white;
+    background-color: black;
+    padding: 5px;   
+    margin: 10px;
+}
+.section-six__bb{
+    background-color: yellow;
+    width: 500px;
+    height: 30px;
+      
+}
+.universe{
+    background-color: black;
+    color: white;
+    padding:5px
+
+}
+
+
+.section-two__img,.section-three__img,.section-four__img,.section-five__img{
+    height: 50%;
+    width: 100%;
+}
